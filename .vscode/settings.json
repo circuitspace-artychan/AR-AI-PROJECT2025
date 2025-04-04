@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "AR-AI-PROJECT2025.sln"
+    "dotnet.defaultSolution": "Finger Mover Unity Project.sln"
 }
