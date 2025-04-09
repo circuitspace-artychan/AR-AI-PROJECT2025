@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: bc0e9ce1939d1414babf6711f6e0822e
+  productGUID: 9689c15428f07ff4ba435988a89a1cde
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: FingerMoverRepoClone
+  productName: Finger Mover
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -834,17 +834,17 @@ PlayerSettings:
   gcIncremental: 1
   gcWBarrierValidation: 0
   apiCompatibilityLevelPerPlatform: {}
-  editorAssembliesCompatibilityLevel: 1
+  editorAssembliesCompatibilityLevel: 2
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: FingerMoverRepoClone
+  metroPackageName: Finger Mover
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: FingerMoverRepoClone
+  metroApplicationDescription: Finger Mover
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -911,15 +911,15 @@ PlayerSettings:
   hmiCpuConfiguration: 
   hmiLogStartupTiming: 0
   qnxGraphicConfPath: 
-  apiCompatibilityLevel: 6
+  apiCompatibilityLevel: 3
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 98e41b0f-472c-49cf-841f-016359df97ff
+  cloudProjectId: 44d1bbe2-9905-45e1-9de3-b2ee4e10b4a0
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: FingerMoverRepoClone
-  organizationId: circuitspace_artychan
+  projectName: Finger Mover
+  organizationId: bigbobbert
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
